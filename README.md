@@ -111,9 +111,6 @@
 - seleniumによるUIテストを実装
 - QAサイト開発
 - タグ管理システムの開発
-- 広告配信システムの管理
-- SEOを考慮したサイト改修
-- 会員登録UIUXの改善
 - デプロイスクリプト作成、CI導入・運用（shell/python/webhook/Jenkins）
 - コンテンツ作成のためのクローラ作成（Java/Python）
 - ミドルウェアの管理（Tomcat/MySql）
